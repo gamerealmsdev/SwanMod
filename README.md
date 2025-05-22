@@ -1,6 +1,6 @@
 # SwanMod
 
-**SwanMod** is a Minecraft mod made by [LiteralSwan](https://www.youtube.com/@LiteralSwan) as part of an ongoing series on YouTube! In each episode, I take the top comment from the video and **add it to the mod** — no matter how ridiculous or cursed the suggestion may be - well... within reason.
+**SwanMod** is a Minecraft mod made by [LiteralSwan](https://www.youtube.com/@LiteralSwan) as part of an ongoing series on YouTube! In each episode, I take the top comment from the video and **add it to the mod** — no matter how ridiculous or cursed the suggestion may be — well... within reason.
 
 Check out the series on my channel! [LiteralSwan on YouTube](https://www.youtube.com/@LiteralSwan)
 
