@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "swanmod",
+  "version": "${version}",
+  "name": "SwanMod",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/swanmod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "xyz.gamerealms.swanmod.client.SwanModClient"
+    ],
+    "main": [
+      "xyz.gamerealms.swanmod.SwanMod"
+    ]
+  },
+  "mixins": [
+    "swanmod.mixins.json",
+    {
+      "config": "swanmod.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
